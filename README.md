@@ -120,7 +120,7 @@ Compares candidate salary expectations against offered salaries.
 
 ## Dashboard
 
-![Dashboard](Snapshot (Dashboard & Charts)/Dashboard - HR recruitment.png)
+![Dashboard](https://github.com/Larry0615/HR-recruitment-hiring-analysis/blob/bd10e098646a7a7c1fc5b5056b1dee71b1a3a093/Snapshot%20(Dashboard%20%26%20Charts)/Dashboard%20-%20HR%20recruitment.png)
 
 ---
 

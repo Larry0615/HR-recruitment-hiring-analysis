@@ -34,7 +34,7 @@ The dataset contains:
 * Offer salaries
 * Hiring dates
 
-Intentional data quality issues included:
+Data quality issues included:
 
 * Duplicate records
 * Missing values
